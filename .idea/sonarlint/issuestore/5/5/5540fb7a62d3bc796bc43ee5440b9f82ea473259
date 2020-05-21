@@ -1,0 +1,289 @@
+
+S
+java:S2696½"6Make the enclosing method "static" or remove this set.(ıÿô|8ËÉµî .
+V
+java:S3252G"9Use static access with "org.openqa.selenium.By" for "id".(®»›‘8ËÉµî .
+X
+java:S2696p"6Make the enclosing method "static" or remove this set.(ÿĞŠ˜şÿÿÿÿ8ËÉµî .
+\
+java:S3252£"9Use static access with "org.openqa.selenium.By" for "id".(Ê¢‚Ëûÿÿÿÿ8ËÉµî .
+S
+java:S2696["6Make the enclosing method "static" or remove this set.(ÆÁ¿8ËÉµî .
+\
+java:S3252µ"9Use static access with "org.openqa.selenium.By" for "id".(‡ÒİÀúÿÿÿÿ8ËÉµî .
+Q
+java:S1659""/Declare "profileEmailField" on a separate line.(†¸òüøÿÿÿÿ8ËÉµî .
+\
+java:S3252¨"9Use static access with "org.openqa.selenium.By" for "id".(©àñ‹üÿÿÿÿ8ËÉµî .
+Y
+java:S2696â"6Make the enclosing method "static" or remove this set.(©ªÉşÿÿÿÿ8ËÉµî .
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(ˆÑí8ËÉµî .
+\
+java:S3252Ã"9Use static access with "org.openqa.selenium.By" for "id".(âŠªøÿÿÿÿ8ËÉµî .
+L
+java:S1659,"/Declare "accountSignOutBtn" on a separate line.(¨¹ÿ8ËÉµî .
+W
+java:S3252Â"9Use static access with "org.openqa.selenium.By" for "id".(ÌÄ8ËÉµî .
+D
+java:S1659%"'Declare "logOutBtn" on a separate line.(¤÷ß‹8ËÉµî .
+S
+java:S2696S"6Make the enclosing method "static" or remove this set.(İ÷Ğÿ8ËÉµî .
+G
+java:S1659&"%Declare "backBtn" on a separate line.(íªøÜøÿÿÿÿ8ËÉµî .
+T
+java:S1659"7Declare "releaseConfirmationButton" on a separate line.(˜—Â´8ËÉµî .
+H
+java:S1659"-Declare "appErrorMessage" on a separate line.(ˆ¦öèøÿÿÿÿ
+[
+java:S3252z"9Use static access with "org.openqa.selenium.By" for "id".(ÁªĞ¯ÿÿÿÿÿ8ËÉµî .
+T
+java:S2696Â"6Make the enclosing method "static" or remove this set.(ÌÄ8ËÉµî .
+T
+java:S2696˜"6Make the enclosing method "static" or remove this set.(îúóğ8ËÉµî .
+S
+java:S2696G"6Make the enclosing method "static" or remove this set.(®»›‘8ËÉµî .
+R
+java:S2696u"6Make the enclosing method "static" or remove this set.(´¡Š8ËÉµî .
+Y
+java:S2696£"6Make the enclosing method "static" or remove this set.(Ê¢‚Ëûÿÿÿÿ8ËÉµî .
+\
+java:S3252É"9Use static access with "org.openqa.selenium.By" for "id".(ï„®¯ùÿÿÿÿ8ËÉµî .
+Z
+java:S3252Ğ"<Use static access with "org.openqa.selenium.By" for "xpath".(™…‡…8ËÉµî .
+S
+java:S16594"1Declare "seekerReleaseButton" on a separate line.(‚ï¦íûÿÿÿÿ8ËÉµî .
+W
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(ˆÑí8ËÉµî .
+T
+java:S2696°"6Make the enclosing method "static" or remove this set.(Ë±Şé8ËÉµî .
+K
+java:S16596".Declare "manualInfoButton" on a separate line.(Úó8ËÉµî .
+G
+java:S1659"*Declare "cancelButton" on a separate line.(–ë¤Ø8ËÉµî .
+Q
+java:S1659"6Declare "ownerSearchReleaseButton" on a separate line.(Æ¡ûƒıÿÿÿÿ
+W
+java:S3252·"9Use static access with "org.openqa.selenium.By" for "id".(ù„†Ò8ËÉµî .
+Y
+java:S2696²"6Make the enclosing method "static" or remove this set.(à›²Ñşÿÿÿÿ8ËÉµî .
+\
+java:S3252Ì"9Use static access with "org.openqa.selenium.By" for "id".(»›ƒÒøÿÿÿÿ8ÏÔ·î .
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(ş§›Ã8ËÉµî .
+W
+java:S3252™"9Use static access with "org.openqa.selenium.By" for "id".(›¯ÇÑ8ËÉµî .
+R
+java:S16595"5Declare "confirmationMessageText" on a separate line.(úÅ¨æ8ËÉµî .
+^
+java:S3252è"@Use static access with "org.openqa.selenium.By" for "className".(¨ÉÍæ8ËÉµî .
+Y
+java:S2696†"6Make the enclosing method "static" or remove this set.(ğ¡Û¶şÿÿÿÿ8ËÉµî .
+O
+java:S16598"-Declare "aboutInfoButton" on a separate line.(†‰—œşÿÿÿÿ8ËÉµî .
+W
+java:S3252Ç"9Use static access with "org.openqa.selenium.By" for "id".(·øş 8ÏÔ·î .
+‚
+java:S1450"gRemove the "ownerSearchReleaseButton" field and declare it as a local variable in the relevant methods.(Æ¡ûƒıÿÿÿÿ
+W
+java:S1659"<Declare "releaseSeekerParkingSpotButton" on a separate line.(¡©½€üÿÿÿÿ
+W
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(¢ÁÇß8ËÉµî .
+]	java:S125Y"<This block of commented-out lines of code should be removed.(Ìñùäüÿÿÿÿ8ËÉµî .
+Y
+java:S2696¨"6Make the enclosing method "static" or remove this set.(©àñ‹üÿÿÿÿ8ËÉµî .
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(†ˆàÈùÿÿÿÿ8ËÉµî .
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(¢ÁÇß8ËÉµî .
+Z
+java:S3252Ö"<Use static access with "org.openqa.selenium.By" for "xpath".(é®ã8ËÉµî .
+Q
+java:S16599"/Declare "toolbarTitleField" on a separate line.(õ½ÿùúÿÿÿÿ8ËÉµî .
+J
+java:S1659'".Declare "useAnotherAccBtn" on a separate line.(ãŒ®d8ËÉµî .
+[
+java:S3252p"9Use static access with "org.openqa.selenium.By" for "id".(ÿĞŠ˜şÿÿÿÿ8ËÉµî .
+K
+java:S1659"5Declare "useAnotherAccountButton" on a separate line.(“¹ÄÀ
+K
+java:S1659"0Declare "ownerProfileButton" on a separate line.(ıÓöûÿÿÿÿ
+\
+java:S3252Ñ"9Use static access with "org.openqa.selenium.By" for "id".(²øöÇùÿÿÿÿ8Òö»î .
+Y
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(âŠªøÿÿÿÿ8ËÉµî .
+W
+java:S3252°"9Use static access with "org.openqa.selenium.By" for "id".(Ë±Şé8ËÉµî .
+U
+java:S3252u"9Use static access with "org.openqa.selenium.By" for "id".(´¡Š8ËÉµî .
+R
+java:S2696@"6Make the enclosing method "static" or remove this set.(ÿü*8ËÉµî .
+N
+java:S1659"8Declare "ownerParkingSpotStatusInfo" on a separate line.(‰Õ¯š
+†
+java:S1450"iRemove the "ownerParkingSpotStatusInfo" field and declare it as a local variable in the relevant methods.(‰Õ¯š8ËÉµî .
+X
+java:S2696N"6Make the enclosing method "static" or remove this set.(ããÚ·ûÿÿÿÿ8ËÉµî .
+X
+java:S2696a"6Make the enclosing method "static" or remove this set.(™ã’öıÿÿÿÿ8ËÉµî .
+[
+java:S3252N"9Use static access with "org.openqa.selenium.By" for "id".(ããÚ·ûÿÿÿÿ8ËÉµî .
+T
+java:S2696”"6Make the enclosing method "static" or remove this set.(²ÚÛ†8ËÉµî .
+Y
+java:S2696î"6Make the enclosing method "static" or remove this set.(Š·±®úÿÿÿÿ8ËÉµî .
+T
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(·øş 8ˆ¹¹î .
+W
+java:S3252­"9Use static access with "org.openqa.selenium.By" for "id".(Ô–ß•8ËÉµî .
+h
+java:S16593"FDeclare "seekerYourParkingSpotForTodayTextMessage" on a separate line.(¾ëÃİüÿÿÿÿ8ËÉµî .
+J
+java:S1659;"(Declare "infoButton" on a separate line.( ÑÒÜøÿÿÿÿ8ë€»î .
+N
+java:S1659 ",Declare "moreInfoButton" on a separate line.(ñâÏƒûÿÿÿÿ8ËÉµî .
+b
+java:S1659("@Declare "inputEmailFieldMicrosoftSignInPage" on a separate line.(ÿŸæ½şÿÿÿÿ8ËÉµî .
+Z
+java:S1659*"8Declare "backBtnMicrosoftSignInPage" on a separate line.(ôÜÔäşÿÿÿÿ8ËÉµî .
+L
+java:S1659."*Declare "accOptionTab" on a separate line.(¡ß¡óüÿÿÿÿ8ËÉµî .
+T
+java:S2696è"6Make the enclosing method "static" or remove this set.(¨ÉÍæ8ËÉµî .
+W
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(×’Ôõ8ËÉµî .
+O
+java:S1659"4Declare "ownerNameOfParkingSpot" on a separate line.(ÕÛö¢ÿÿÿÿÿ
+Y
+java:S2696€"6Make the enclosing method "static" or remove this set.(Ãôÿ×üÿÿÿÿ8ËÉµî .
+T
+java:S2696ô"6Make the enclosing method "static" or remove this set.(¦ÂºÒ8ËÉµî .
+Q
+java:S1659";Declare "signOutAndForgetAccountButton" on a separate line.(ÏÄÏ÷
+T
+java:S3252f"9Use static access with "org.openqa.selenium.By" for "id".(©¡78ËÉµî .
+I
+java:S1659"3Declare "openSignOutMenuButton" on a separate line.(®­äî
+Y
+java:S2696Œ"6Make the enclosing method "static" or remove this set.(Æ‡‡„úÿÿÿÿ8ËÉµî .
+Q
+java:S16597"/Declare "contactInfoButton" on a separate line.(Â†ëĞøÿÿÿÿ8ËÉµî .
+\
+java:S3252‰"9Use static access with "org.openqa.selenium.By" for "id".(ÙİÄ…úÿÿÿÿ8ËÉµî .
+Y
+java:S16592"<Declare "seekerTapToFindSpotTextMessage" on a separate line.(´î÷¢8ËÉµî .
+[
+java:S3252k"9Use static access with "org.openqa.selenium.By" for "id".(ù°‘ûıÿÿÿÿ8ËÉµî .
+V
+java:S3252½"9Use static access with "org.openqa.selenium.By" for "id".(ıÿô|8ËÉµî .
+V
+java:S3252Ü"9Use static access with "org.openqa.selenium.By" for "id".(Øü¼]8ËÉµî .
+Y
+java:S2696’"6Make the enclosing method "static" or remove this set.(Çû°Šúÿÿÿÿ8ËÉµî .
+S
+java:S1659/"1Declare "accOptionSignOutTab" on a separate line.(ôµã›øÿÿÿÿ8ËÉµî .
+K
+java:S1659!".Declare "profileNameField" on a separate line.(Â‘öÓ8ËÉµî .
+G
+java:S1659"1Declare "seekerProfileButton" on a separate line.(»·¹ç
+L
+java:S1659<"/Declare "closeManualButton" on a separate line.(¯ı‘³8ËÉµî .
+X
+java:S2696z"6Make the enclosing method "static" or remove this set.(ÁªĞ¯ÿÿÿÿÿ8ËÉµî .
+Y
+java:S2696‰"6Make the enclosing method "static" or remove this set.(ÙİÄ…úÿÿÿÿ8ËÉµî .
+Q
+java:S2696f"6Make the enclosing method "static" or remove this set.(©¡78ËÉµî .
+M
+java:S1659"2Declare "signOutAccountButton" on a separate line.(òüÛ×øÿÿÿÿ
+G
+java:S1659"*Declare "searchButton" on a separate line.(¨Ö–ÿ8ËÉµî .
+E
+java:S1659"/Declare "pickAccountButton" on a separate line.(áé–Î
+?
+java:S1659"*Declare "urlTextField" on a separate line.(–áa
+Q
+java:S1659$"/Declare "aboutScreenManual" on a separate line.(ôº‡¸ùÿÿÿÿ8ËÉµî .
+\
+java:S3252²"9Use static access with "org.openqa.selenium.By" for "id".(à›²Ñşÿÿÿÿ8ËÉµî .
+Y
+java:S2696¹"6Make the enclosing method "static" or remove this set.(áÏ¦Ÿøÿÿÿÿ8ËÉµî .
+Y
+java:S2696„"6Make the enclosing method "static" or remove this set.(´öÚ‚ıÿÿÿÿ8ËÉµî .
+T
+java:S2696­"6Make the enclosing method "static" or remove this set.(Ô–ß•8ËÉµî .
+W
+java:S3252ô"9Use static access with "org.openqa.selenium.By" for "id".(¦ÂºÒ8ËÉµî .
+T
+java:S2696Ö"6Make the enclosing method "static" or remove this set.(é®ã8ËÉµî .
+S
+java:S2696Ü"6Make the enclosing method "static" or remove this set.(Øü¼]8ËÉµî .
+X
+java:S2696k"6Make the enclosing method "static" or remove this set.(ù°‘ûıÿÿÿÿ8ËÉµî .
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(†ˆàÈùÿÿÿÿ8ËÉµî .
+T
+java:S2696·"6Make the enclosing method "static" or remove this set.(ù„†Ò8ËÉµî .
+U
+java:S1659)"8Declare "nextBtnMicrosoftSignInPage" on a separate line.(Ş·†•8ËÉµî .
+Y
+java:S2696É"6Make the enclosing method "static" or remove this set.(ï„®¯ùÿÿÿÿ8ËÉµî .
+\
+java:S3252¹"9Use static access with "org.openqa.selenium.By" for "id".(áÏ¦Ÿøÿÿÿÿ8ËÉµî .
+\
+java:S3252„"9Use static access with "org.openqa.selenium.By" for "id".(´öÚ‚ıÿÿÿÿ8ËÉµî .
+J
+java:S1659"4Declare "signInWithMicrosoftBtn" on a separate line.(İ¨¥å
+Y
+java:S10684"7Remove this unused "seekerReleaseButton" private field.(‚ï¦íûÿÿÿÿ8ËÉµî .
+W
+java:S3252”"9Use static access with "org.openqa.selenium.By" for "id".(²ÚÛ†8ËÉµî .
+T
+java:S2696½"6Make the enclosing method "static" or remove this set.(á‘±Ä8ËÉµî .
+V
+java:S3252S"9Use static access with "org.openqa.selenium.By" for "id".(İ÷Ğÿ8ËÉµî .
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(›ÓÊ½şÿÿÿÿ8ËÉµî .
+W
+java:S3252½"9Use static access with "org.openqa.selenium.By" for "id".(á‘±Ä8ËÉµî .
+T
+java:S2696ú"6Make the enclosing method "static" or remove this set.(œ¶Ÿ¯8ËÉµî .
+Y
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(²øöÇùÿÿÿÿ8Òö»î .
+O
+java:S1135W"2Complete the task associated to this TODO comment.(°îéš8ËÉµî .
+g
+java:S1659+"EDeclare "usernameFieldEndavaFederationSignInPage" on a separate line.(İæ‚ÿÿÿÿÿ8ËÉµî .
+ˆ
+java:S4144K"fUpdate this method so that its implementation is not identical to "urlTextFieldBuild1Dot0" on line 68.(†æ±Æûÿÿÿÿ8ËÉµî .
+T
+java:S2696™"6Make the enclosing method "static" or remove this set.(›¯ÇÑ8ËÉµî .
+Y
+java:S2696¤"6Make the enclosing method "static" or remove this set.(øÀÙŸÿÿÿÿÿ8ËÉµî .
+\
+java:S3252¤"9Use static access with "org.openqa.selenium.By" for "id".(øÀÙŸÿÿÿÿÿ8ËÉµî .
+O
+java:S1659"2Declare "snackBarNotification" on a separate line.(ß§«ğ8ËÉµî .
+[
+java:S1659"@Declare "currentSeekerParkingSpotStatusText" on a separate line.(Ì®àÍşÿÿÿÿ
+G
+java:S1659#"*Declare "profileImage" on a separate line.(íà£„8ËÉµî .
+H
+java:S1659:"&Declare "okButton" on a separate line.(¡ú£ÿıÿÿÿÿ8ˆ¹¹î .
+T
+java:S2696ª"6Make the enclosing method "static" or remove this set.(ä»«ğ8ËÉµî .
+D
+java:S1659")Declare "closeAppBtn" on a separate line.(¤í¢Âøÿÿÿÿ
+U
+java:S1659-"8Declare "accountSignOutAndForgetBtn" on a separate line.(Š°È·8ËÉµî .
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(×’Ôõ8ËÉµî .
+W
+java:S3252ª"9Use static access with "org.openqa.selenium.By" for "id".(ä»«ğ8ËÉµî .
+Y
+java:S2696Ì"6Make the enclosing method "static" or remove this set.(»›ƒÒøÿÿÿÿ8ÏÔ·î .
+X	java:S125"<This block of commented-out lines of code should be removed.(ÊÔÊ8ËÉµî .
+\
+java:S16590":Declare "accOptionSignOutAndForgetTab" on a separate line.(‡ıùÿÿÿÿ8ËÉµî .
+T
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.(™…‡…8ËÉµî .
+Y
+java:S2696µ"6Make the enclosing method "static" or remove this set.(‡ÒİÀúÿÿÿÿ8ËÉµî .

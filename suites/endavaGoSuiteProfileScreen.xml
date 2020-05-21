@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="EndavaGo Automation Suite" parallel="false" verbose="1">
+    <!-- parallel="tests" thread-count="10"  <- number of parallel tests-->
+    <test name="EndavaGoProfileScreenTest" preserve-order="true">
+        <parameter name="configFile" value="configFormatFileEndavaGo.json"></parameter>
+        <classes>
+            <class name="tests.EndavaGoProfileScreenTest"/>
+        </classes>
+    </test>
+
+</suite>
+

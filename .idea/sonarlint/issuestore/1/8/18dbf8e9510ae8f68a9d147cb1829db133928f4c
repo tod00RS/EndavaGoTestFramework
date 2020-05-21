@@ -1,0 +1,99 @@
+
+d
+java:S2259¸"HA "NullPointerException" could be thrown; "getDriver()" can return null.(Ìúœ»úÿÿÿÿ
+X
+java:S3457ş"AFormat specifiers should be used instead of string concatenation.(±‡«É
+N
+java:S2629†"7Use the built-in formatting to construct this argument.(– ×
+X
+java:S3457Ã"AFormat specifiers should be used instead of string concatenation.(òåÌ›
+X
+java:S3457Å"AFormat specifiers should be used instead of string concatenation.(ı§¾
+d
+java:S2259Â"HA "NullPointerException" could be thrown; "getDriver()" can return null.(‰»õŸşÿÿÿÿ
+K
+java:S1905ã"/Remove this unnecessary cast to "AppiumDriver".(åÇ÷ùûÿÿÿÿ
+N
+java:S2629Ã"7Use the built-in formatting to construct this argument.(òåÌ›
+_
+java:S2259"HA "NullPointerException" could be thrown; "getDriver()" can return null.(Ø§Ğã
+A
+java:S5411£"*Use the primitive boolean expression here.(½Ø‚‡
+X
+java:S3457¦"AFormat specifiers should be used instead of string concatenation.(ğ€»„
+d
+java:S2259°"HA "NullPointerException" could be thrown; "getDriver()" can return null.(Ìúœ»úÿÿÿÿ
+s
+java:S2629Ö"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(îîÒ—
+N
+java:S2629ª"7Use the built-in formatting to construct this argument.(åå¿×
+d
+java:S2259–"HA "NullPointerException" could be thrown; "getDriver()" can return null.(²¾ØÏûÿÿÿÿ
+9
+java:S5164:"$Call "remove()" on "localIOSDriver".(øò×`
+X
+java:S3457¤"AFormat specifiers should be used instead of string concatenation.(İ¿¼
+X
+java:S3457à"AFormat specifiers should be used instead of string concatenation.(´ÚÆ£
+X
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(åå¿×
+S
+java:S2629Ï"7Use the built-in formatting to construct this argument.(İæöïúÿÿÿÿ
+_
+java:S2259‘"HA "NullPointerException" could be thrown; "getDriver()" can return null.(òØ¤¥
+d
+java:S2259œ"HA "NullPointerException" could be thrown; "getDriver()" can return null.(˜ü©êûÿÿÿÿ
+`
+java:S3973ç"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+\
+java:S40653"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(’øÏù
+_
+java:S2259¯"HA "NullPointerException" could be thrown; "getDriver()" can return null.(ˆˆ¶
+[
+java:S4065:"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(øò×`
+X
+java:S3457ª"AFormat specifiers should be used instead of string concatenation.(åå¿×
+X
+java:S3457Ö"AFormat specifiers should be used instead of string concatenation.(îîÒ—
+a
+java:S4065B"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ş´½úÿÿÿÿ
+X
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(±‡«É
+7
+java:S51643"!Call "remove()" on "localServer".(’øÏù
+]
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(²¾ØÏûÿÿÿÿ
+_
+java:S2259®"HA "NullPointerException" could be thrown; "getDriver()" can return null.(¦Ë¬Í
+]
+java:S3457À"AFormat specifiers should be used instead of string concatenation.(˜¦¿›úÿÿÿÿ
+X
+java:S3457†"AFormat specifiers should be used instead of string concatenation.(– ×
+S
+java:S2629À"7Use the built-in formatting to construct this argument.(˜¦¿›úÿÿÿÿ
+d
+java:S2259µ"HA "NullPointerException" could be thrown; "getDriver()" can return null.(Ìúœ»úÿÿÿÿ
+C
+java:S5164B"(Call "remove()" on "localAndroidDriver".(ş´½úÿÿÿÿ
+N
+java:S2629¥"7Use the built-in formatting to construct this argument.(åå¿×
+W
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(çñ•l
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(³Ÿ¼Æüÿÿÿÿ
+d
+java:S2259Á"HA "NullPointerException" could be thrown; "getDriver()" can return null.(Œ¨§ûÿÿÿÿ
+N
+java:S2629à"7Use the built-in formatting to construct this argument.(´ÚÆ£
+F
+java:S1905æ"/Remove this unnecessary cast to "AppiumDriver".(í¬ßÑ
+]
+java:S3457œ"AFormat specifiers should be used instead of string concatenation.(˜ü©êûÿÿÿÿ
+_
+java:S2259¥"HA "NullPointerException" could be thrown; "getDriver()" can return null.( Äü•
+d
+java:S2259†"HA "NullPointerException" could be thrown; "getDriver()" can return null.(şÂâûÿÿÿÿ
+]
+java:S3457Ï"AFormat specifiers should be used instead of string concatenation.(İæöïúÿÿÿÿ
+N
+java:S2629Å"7Use the built-in formatting to construct this argument.(ı§¾

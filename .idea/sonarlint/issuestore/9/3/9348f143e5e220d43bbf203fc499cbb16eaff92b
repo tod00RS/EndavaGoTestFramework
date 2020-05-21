@@ -1,0 +1,19 @@
+
+M
+java:S2629t"7Use the built-in formatting to construct this argument.(µ‘ÿ
+;
+java:S2629|"%Invoke method(s) only conditionally. (¢Ç¹
+A
+java:S2629€"%Invoke method(s) only conditionally. (™ÖÈˆûÿÿÿÿ
+A
+java:S2629…"%Invoke method(s) only conditionally. (Ş§ûüÿÿÿÿ
+A
+java:S2629‹"%Invoke method(s) only conditionally. (íê³ÿøÿÿÿÿ
+A
+java:S2629"%Invoke method(s) only conditionally. (™ÖÈˆûÿÿÿÿ
+B
+java:S5164,"'Call "remove()" on "localConfigHelper".(îñûéúÿÿÿÿ
+a
+java:S4065,"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(îñûéúÿÿÿÿ
+W
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(µ‘ÿ

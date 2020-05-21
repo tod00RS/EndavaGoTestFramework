@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Opium Suite" parallel="tests" thread-count="2">
+    <test name="Run 01">
+    <parameter name="configFile" value="newConfigFormat.json"></parameter>
+        <classes>
+            <class name="tests.JsonTest"/>
+        </classes>
+    </test>
+	<test name="Run 02">
+		<parameter name="configFile" value="newConfigFormat2.json"></parameter>
+		<classes>
+			<class name="tests.JsonTest"/>
+		</classes>
+	</test>
+</suite>

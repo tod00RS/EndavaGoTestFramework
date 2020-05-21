@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  
+<suite name="EndavaGo Automation Suite" verbose="1" >
+  <suite-files>
+<!--    <suite-file path="suites/demoSuite.xml" />-->
+<!--      <suite-file path="suites/endavaGoSuiteSeekerProfileScreen.xml"></suite-file>       &lt;!&ndash;  Samsung S8, SEEKER  &ndash;&gt;-->
+      <suite-file path="suites/endavaGoSuiteSeekerHomeScreen.xml"></suite-file>       <!--  Samsung S8, SEEKER  -->
+<!--      <suite-file path="suites/endavaGoSuiteAccountSelectorScreen.xml"></suite-file>       &lt;!&ndash;  Samsung S8  &ndash;&gt;-->
+<!--            <suite-file path="suites/endavaGoSuiteOwnerHomeScreen.xml"></suite-file>     &lt;!&ndash;  Samsung S8, OWNER  &ndash;&gt;-->
+<!--      <suite-file path="suites/endavaGoSuiteParallelTestOwnerSeeker.xml"></suite-file>     &lt;!&ndash;  Samsung S8, SEEKER   &   Samsung A50, OWNER  &ndash;&gt;-->
+  </suite-files>
+</suite>
+
+
+

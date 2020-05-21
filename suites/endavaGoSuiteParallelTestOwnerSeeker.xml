@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="EndavaGo Automation Suite Parallel Devices Testing" parallel="tests" thread-count="2">  <!-- verbose="1" -->
+    <!-- parallel="tests" thread-count="10"  <- number of parallel tests-->
+    <test name="EndavaGoOwnerHomeScreenBuild101Test" preserve-order="true">
+<!--        <parameter name="configFile" value="configFormatFileEndavaGoS8.json"></parameter>-->
+        <parameter name="configFile" value="configFormatFileEndavaGoA50.json"></parameter>
+        <parameter name="email" value="Srboljub.Todorovic@endava.com"></parameter>
+        <classes>
+<!--                <class name="tests.EndavaGoOwnerHomeScreenTest"/>-->
+            <class name="tests.EndavaGoOwnerHomeScreenBuild101Test"/>
+        </classes>
+    </test>
+    <test name="EndavaGoSeekerHomeScreenTest" preserve-order="true">
+        <parameter name="configFile" value="configFormatFileEndavaGoS8.json"></parameter>
+        <parameter name="email" value="Jovan.Penic@endava.com"></parameter>
+        <classes>
+            <class name="tests.EndavaGoSeekerHomeScreenTest"/>
+        </classes>
+    </test>
+
+</suite>
+

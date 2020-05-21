@@ -1,0 +1,21 @@
+
+R
+java:S2629"7Use the built-in formatting to construct this argument.(İÃÙÿÿÿÿÿ
+R
+java:S26290"7Use the built-in formatting to construct this argument.(ÑÕäùÿÿÿÿ
+:
+java:S2629<"%Invoke method(s) only conditionally. (“•Î,
+;
+java:S2629C"%Invoke method(s) only conditionally. (£ÂÄ¨
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ø­ŒÛùÿÿÿÿ
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(İÃÙÿÿÿÿÿ
+W
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(ØıÅ
+\
+java:S34570"AFormat specifiers should be used instead of string concatenation.(ÑÕäùÿÿÿÿ
+W
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(ÀÔ±
+\
+java:S3457V"AFormat specifiers should be used instead of string concatenation.(ÛÙ¸îùÿÿÿÿ

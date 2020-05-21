@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Opium Suite Debug">
+	<test name="Run 01">
+		<parameter name="configFile" value="cfgOpium.properties"></parameter>
+		<classes>
+			<class name="tests.OpiumTest">
+				<methods>
+				<include name="startServerBadRequest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<!-- <test name="Run 02"> <parameter name="configFile" value="cfg2.properties"></parameter> 
+		<classes> <class name="com.endava.ngtests.SimpleTest" /> </classes> </test> -->
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Demo Automation Suite" parallel="false" verbose="1">
+    <!-- parallel="tests" thread-count="10"  <- number of parallel tests-->
+    <test name="Run 01" preserve-order="true">
+        <parameter name="configFile" value="configFormatFileDemo.json"></parameter>
+            <classes>
+                <class name="tests.DemoTest"/>
+            </classes>
+    </test>
+
+<!--    <test name="Run 02" preserve-order="true">-->
+<!--        <parameter name="configFile" value="configFormatFileDemo.json"></parameter>-->
+<!--        <classes>-->
+<!--            <class name="tests.ActionsHelperTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
+

@@ -1,0 +1,17 @@
+
+X	java:S1258"<This block of commented-out lines of code should be removed.(ÚÀµˆ8úâ§î .
+c
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(‰Î—ˆúÿÿÿÿ8úâ§î .
+^
+java:S3252`"<Use static access with "org.openqa.selenium.By" for "xpath".(ùÌ½œşÿÿÿÿ8úâ§î .
+Y
+java:S2629#"7Use the built-in formatting to construct this argument.(‰Î—ˆúÿÿÿÿ8úâ§î .
+Y
+java:S26295"7Use the built-in formatting to construct this argument.(òîúÿÿÿÿ8úâ§î .
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä“Ëø8úâ§î .
+¨
+java:S1192"ŠDefine a constant instead of duplicating this literal "Can't find Search/Release parking spot button, element absent or blocked." 4 times.(Ú‡óù8úâ§î .
+c
+java:S34575"AFormat specifiers should be used instead of string concatenation.(òîúÿÿÿÿ8úâ§î .
+^
+java:S3252a"<Use static access with "org.openqa.selenium.By" for "xpath".(ÒªÈïıÿÿÿÿ8úâ§î .
